@@ -1,0 +1,18 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DUSABE-Elissa.js",
+  "scripts": {
+    "test": "done well"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Elissa-DI"
+  },
+  "author": "Elissa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
